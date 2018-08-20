@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Kotlin Test</string>
+    <string name="name">Welcome</string>
+    <string name="welcome">WELCOME</string>
+    <string name="niza_solutions">ALASKA HEIGHTS</string>
 </resources>
